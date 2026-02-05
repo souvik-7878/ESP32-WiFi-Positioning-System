@@ -1,0 +1,5 @@
+=== ESP32 Wi-Fi Trilateration Log (UDP Version) ===
+Timestamp | Distances [narzo, laptop, hello] | Position (X,Y)
+
+2026-02-06 00:11:18.409 | Distances: 2.50, 2.21, 2.79 | Position: (0.86, 0.76)
+2026-02-06 00:11:21.711 | Distances: 2.50, 1.88, 2.79 | Position: (1.08, 0.91)
