@@ -1,9 +1,0 @@
-🖼️ Suggestion for PPT 
-
-Add a slide titled:
-"ESP32: Wi-Fi Scanning & Distance Estimation Code"
-→ Show a snippet of the estimateDistance() function
-→ Explain: "Distance is calculated using RSSI and calibrated path loss model" 
-
-
--> in the latest commit i havent updated the offset , i have to check about the foltering part and the averaging is also not considered
